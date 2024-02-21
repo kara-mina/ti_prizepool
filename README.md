@@ -1,5 +1,5 @@
 # ti_prizepool
-The International DOTA 2 Tournaments' (2011-2023) prize pools Tabeau visualization.
+The International DOTA 2 Tournaments' (2011-2023) prize pools [Tabeau visualization](https://public.tableau.com/app/profile/ivanjkaramazov/viz/TIPrizepools/Base).
 
 ### Sources
 1. Dates and prize pools — [Liquipedia](https://liquipedia.net/dota2/The_International/2023).
